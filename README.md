@@ -25,10 +25,6 @@ Dasa122@github:~$ cat ~/.profile
 > self-hosting, automation & robotics on the side
 > ships to Android, iOS and the browser
 
-Dasa122@github:~$ ls ~/stack
-kotlin/  ktor/  compose-multiplatform/  python/  typescript/
-react/   node/  ansible/  proxmox/  docker/  linux/  c++/
-
 Dasa122@github:~$ uptime
 up since 2023 — always compiling something _
 ```
@@ -37,19 +33,35 @@ up since 2023 — always compiling something _
 
 ### `~/stack`
 
+```console
+Dasa122@github:~$ cat ~/skills
+# daily drivers
+linux  docker  bash  networking  cisco  sysadmin  git
+
+# shipping with
+python  typescript  node  ansible  proxmox  home-assistant  c++
+
+# learning in public
+kotlin  compose-multiplatform  ktor  react  github-actions  zabbix
+```
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF14" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=39FF14" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=flat-square&logo=proxmox&logoColor=39FF14" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=39FF14" alt="Ansible" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=39FF14" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Zabbix-0D1117?style=flat-square&logo=zabbix&logoColor=39FF14" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Cisco-0D1117?style=flat-square&logo=cisco&logoColor=39FF14" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=39FF14" alt="C++" />
   <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=39FF14" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Compose%20Multiplatform-0D1117?style=flat-square&logo=jetpackcompose&logoColor=39FF14" alt="Compose Multiplatform" />
   <img src="https://img.shields.io/badge/Ktor-0D1117?style=flat-square&logo=ktor&logoColor=39FF14" alt="Ktor" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39FF14" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=39FF14" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=flat-square&logo=proxmox&logoColor=39FF14" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF14" alt="Linux" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=39FF14" alt="C++" />
   <img src="https://img.shields.io/badge/Home%20Assistant-0D1117?style=flat-square&logo=homeassistant&logoColor=39FF14" alt="Home Assistant" />
 </p>
 
