@@ -89,8 +89,8 @@ origin  https://github.com/Dasa122/filc-ha.git   # HA integration
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dasa122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=30363D" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasa122&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Dasa122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=30363D" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dasa122&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
 
 <br/>
 
@@ -98,7 +98,7 @@ origin  https://github.com/Dasa122/filc-ha.git   # HA integration
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dasa122&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Dasa122%20%3A%20commit%20log" alt="Activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasa122&theme=github_dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D&icon_color=39FF14&chart_color=39FF14" alt="Contribution summary" />
 
 </div>
 
