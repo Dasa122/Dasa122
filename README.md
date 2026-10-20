@@ -74,7 +74,6 @@ kotlin  compose-multiplatform  ktor  react  github-actions  zabbix
 | ▸ | [`filcdev/filc`](https://github.com/filcdev/filc) | `TypeScript` | The core Filc stack — the `chronos` API and `iris` web app: timetables, doorlock access control, news and notifications for a real school |
 | ▸ | [`filcdev/mergen`](https://github.com/filcdev/mergen) | `Kotlin` · `KMP` | Compose Multiplatform client for **Android & iOS** — the student app |
 | ▸ | [`Dasa122/filc-ha`](https://github.com/Dasa122/filc-ha) | `Python` | Home Assistant integration — Filc timetable calendar plus current/next lesson sensors with live countdowns |
-| ▸ | [`filcdev/Navigator`](https://github.com/filcdev/Navigator) | `TypeScript` | Indoor-map kiosk that guides people around the school |
 
 ```console
 Dasa122@github:~$ git remote -v
