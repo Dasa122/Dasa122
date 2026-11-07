@@ -36,13 +36,13 @@ up since 2023 — always compiling something _
 ```console
 Dasa122@github:~$ cat ~/skills
 # daily drivers
-linux  docker  bash  networking  cisco  sysadmin  git
+linux  docker  bash  networking  cisco  sysadmin  git react typescript
 
 # shipping with
-python  typescript  node  ansible  proxmox  home-assistant  c++
+python  node  ansible  proxmox  home-assistant  c++ github-actions 
 
 # learning in public
-kotlin  compose-multiplatform  ktor  react  github-actions  zabbix
+kotlin  compose-multiplatform  ktor  zabbix
 ```
 
 <p align="left">
