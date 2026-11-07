@@ -23,7 +23,6 @@ Kővágó Gergő  ·  student developer  ·  Budapest, Hungary
 Dasa122@github:~$ cat ~/.profile
 > builds the Filc school platform  (chronos · iris · mergen)
 > self-hosting, automation & robotics on the side
-> ships to Android, iOS and the browser
 
 Dasa122@github:~$ uptime
 up since 2023 — always compiling something _
